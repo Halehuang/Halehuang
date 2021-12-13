@@ -133,4 +133,4 @@ errno.133:內存有硬體錯誤 Memory page has hardware error
 errno.134:錯誤跟失敗跟警告 error|failed|warning
 errno.135:無法保存或刪除 failsafe persistence store
 errno.136:無法工作 will not work properly
-errno.137:找不到主機名稱 host name not fou
+errno.137:找不到主機名稱 host name not found
